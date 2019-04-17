@@ -3,6 +3,10 @@ Pilpres Count 2019
 
 
 cara pake:
-figlet instal -pkg
--cdpilco19
+- pkg install figlet
+- cd pilco19
+- python pilco19.py
+
+donasi saya di https://paypal.me/DonateTaufiq
+
 
